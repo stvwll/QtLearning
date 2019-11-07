@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/over.gif</file>
+        <file>image/win.gif</file>
+        <file>image/gameover.gif</file>
+        <file>image/bye.jpg</file>
+    </qresource>
+</RCC>
