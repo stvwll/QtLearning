@@ -1,0 +1,1 @@
+功能：画背景图，通过QPainter  QPen QBrush.
