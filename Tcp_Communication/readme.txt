@@ -1,0 +1,1 @@
+Qt中网络通信socket,tcp协议。
